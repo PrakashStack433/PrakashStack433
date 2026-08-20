@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=220&section=header&text=Hi%20There,%20I'm%20Prakash%20Das%20👋&fontSize=36&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20B.Tech%20in%20AI%20%26%20ML&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%"/>
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=220&section=header&text=Hi%20There,%20I'm%20Prakash%20Das%20👋&fontSize=36&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20B.Tech%20in%20AI%20%26%20ML&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%"/> -->
 </div>
 
 <div align="center">
   <!-- Upload the image as car.png in your repository root or adjust the path -->
-  <img src="./F:\Storage\Pictures\c09f3eb58e50ebccfd8d48473b72a0bd.jpg" width="420" />  
+  <img src="https://github.com/user-attachments/assets/bc78b731-2a8b-4618-9149-7fa587b4011a" width="4200" />  
 </div>
 
 <div align="center">
@@ -55,12 +55,12 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrakashStack433&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakashStack433&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=PrakashStack433&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" /> -->
+  <img src="https://streak-stats.demolab.com?user=PrakashStack433&theme=tokyonight&hide_border=true" weidth="9500" alt="GitHub Streak" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashStack433&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashStack433&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" /> -->
 </div>
 
 ---
@@ -69,7 +69,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://www.linkedin.com/in/prakash-das-a52b3133b/Color=white" alt="LinkedIn" />
+    <img src="www.linkedin.com/in/prakash-das-a52b3133b" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
     <img src="https://www.instagram.com/prakash.das44/Color=white" alt="Instagram" />

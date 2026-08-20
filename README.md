@@ -68,17 +68,17 @@
 ### 📬 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="www.linkedin.com/in/prakash-das-a52b3133b" alt="LinkedIn" />
+  <a href="www.linkedin.com/in/prakash-das-a52b3133b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank">
-    <img src="https://www.instagram.com/prakash.das44/Color=white" alt="Instagram" />
+  <a href="https://www.instagram.com/prakash.das44/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
-    <img src="fantuam_deluxColor=white" alt="Discord" />
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-fantuam__delux-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="dasprakash448321@gmail.comColor=white" alt="Email" />
+  <a href="mailto:dasprakash448321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dasprakash448321@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 

@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=480&lines=B.Tech+in+Artificial+Intelligence+%26+ML;Building+smart+%26+efficient+software;Exploring+Deep+Learning+%26+Core+Algorithms" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=490&lines=B.Tech+in+Artificial+Intelligence+%26+ML;Building+smart+%26+efficient+software;Exploring+Deep+Learning+%26+Core+Algorithms" alt="Typing SVG" />
   </a>
 </div>
 
@@ -51,20 +51,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=PrakashStack433&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" /> -->
-  <img src="https://streak-stats.demolab.com?user=PrakashStack433&theme=tokyonight&hide_border=true" weidth="9500" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashStack433&layout=compact&theme=tokyonight&hide_border=true" height="140" alt="Top Languages" /> -->
-</div>
-
----
-
 ### 📬 Connect With Me
 
 <div align="center">
